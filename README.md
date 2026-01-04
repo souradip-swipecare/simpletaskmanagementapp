@@ -115,5 +115,12 @@ If you have a different priority, please let me know.
 - Check-ins are created locally first with `syncStatus` = `pending` and stored in Hive. A background sync service (in `lib/data/sync/checkin_sync_service.dart`) uploads pending items when online and marks them `synced` or `failed`.
 - Conflict policy: **client-wins** for check-ins. For tasks we will implement last-write-wins unless you prefer a different policy.
 
+![WhatsApp Image 2026-01-04 at 18 29 41](https://github.com/user-attachments/assets/9f7042fc-e69a-41ab-8407-6049da8b6ee0)
 
+![WhatsApp Image 2026-01-04 at 18 29 39 (3)](https://github.com/user-attachments/assets/2e192b17-9ba8-46e3-bfe2-d05b747671a5)
+![WhatsApp Image 2026-01-04 at 18 29 41 (1)](https://github.com/user-attachments/assets/![WhatsApp Image 2026-01-04 at 18 29 40](https://github.com/user-attachments/assets/df1fde93-4f66-4635-9211-b06620a02c8d)
+56b65a30-931e-4bf4-902a-d4eeef2a87cd)![WhatsApp Image 2026-01-04 at 18 29 40 (2)](https://github.com/user-attachments/assets/3da69365-0369-4d30-91ef-cb0136026dbf)
+
+![WhatsApp Image 2026-01-04 at 18 29 40 (1)](https://github.com/user-attachments/assets/84f0c0ea-3fff-45ba-a40b-1b8a85040649)
+![WhatsApp Image 2026-01-04 at 18 29 39](https://github.com/user-attachments/assets/fb77aeba-9953-42fd-80fa-573b4287ba92)
 
